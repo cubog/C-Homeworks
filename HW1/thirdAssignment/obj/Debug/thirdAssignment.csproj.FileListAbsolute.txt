@@ -1,0 +1,5 @@
+C:\Users\drodri25\documents\visual studio 2015\Projects\HW1\thirdAssignment\bin\Debug\thirdAssignment.exe.config
+C:\Users\drodri25\documents\visual studio 2015\Projects\HW1\thirdAssignment\bin\Debug\thirdAssignment.exe
+C:\Users\drodri25\documents\visual studio 2015\Projects\HW1\thirdAssignment\bin\Debug\thirdAssignment.pdb
+C:\Users\drodri25\documents\visual studio 2015\Projects\HW1\thirdAssignment\obj\Debug\thirdAssignment.exe
+C:\Users\drodri25\documents\visual studio 2015\Projects\HW1\thirdAssignment\obj\Debug\thirdAssignment.pdb

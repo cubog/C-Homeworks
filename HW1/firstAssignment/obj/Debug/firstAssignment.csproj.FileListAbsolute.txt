@@ -1,0 +1,6 @@
+c:\users\drodri25\documents\visual studio 2015\Projects\HW1\firstAssignment\bin\Debug\firstAssignment.exe.config
+c:\users\drodri25\documents\visual studio 2015\Projects\HW1\firstAssignment\bin\Debug\firstAssignment.exe
+c:\users\drodri25\documents\visual studio 2015\Projects\HW1\firstAssignment\bin\Debug\firstAssignment.pdb
+c:\users\drodri25\documents\visual studio 2015\Projects\HW1\firstAssignment\obj\Debug\firstAssignment.csprojResolveAssemblyReference.cache
+c:\users\drodri25\documents\visual studio 2015\Projects\HW1\firstAssignment\obj\Debug\firstAssignment.exe
+c:\users\drodri25\documents\visual studio 2015\Projects\HW1\firstAssignment\obj\Debug\firstAssignment.pdb
