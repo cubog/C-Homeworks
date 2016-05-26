@@ -13,7 +13,7 @@ namespace HW2
             ProductsManager man = new ProductsManager();
             man.AddItem("banana", 10, 2.99, "fruits");
             man.AddItem("apple", 20, 0.89, "fruits");
-            Console.ReadLine();
+            
 
             while (true)
             {
